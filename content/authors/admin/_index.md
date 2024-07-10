@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Tomasz Michalik
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Tomasz
+last_name: Michalik
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 👁
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,18 +20,18 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Assistant Professor, Eye-Tracking and Archaeology
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: University of Warsaw
+    url: https://pcma.uw.edu.pl/o-nas/pracownicy/tomasz-michalik/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:t.michalik@uw.edu.pl'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
@@ -40,31 +40,33 @@ profiles:
   - icon: brands/github
     url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/tomasz-michalik-9a50ba66/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://uw.academia.edu/TomaszMichalik
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0003-1369-5887 
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Eye-Tracking
+  - Reception of Cultural Heritage
+  - Cross-Cultural Studies
+  - Psychology of Archaeologial Discoveries
+  - Development of New Research and Teaching Technigues 
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: PhD in Archaeology
+    institution: Adam Mickiewicz University, Poznan
     date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_end: 2016
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: MA in Cognitive Sience 
+    institution: Adam Mickiewicz University, Poznan
     date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_end: 2014
     summary: |
       GPA: 3.8/4.0
 
@@ -72,10 +74,10 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: MA in Archaeology
+    institution: Adam Mickiewicz University, Poznan
     date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_end: 2011
     summary: |
       GPA: 3.4/4.0
       
@@ -183,4 +185,5 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Every year archaeologists in different parts of the world make new archaeological discoveries, which are later presented to the general public. How do archaeological discoveries occur? Why are some archaeological objects easy to notice, while others take longer to discover? And, how does the socially and culturally diverse audience perceive archaeological remains and read messages from the past?
+In my study, I aim to answer these questions using eye-tracking and other methods from cognitive science. I am particularly interested in cultural variations in the perception of cultural heritage, as well as the psychological aspects of making archaeological discoveries. Through my research, I strive to develop tools and methods that will help archaeologists better analyze archaeological data and present cultural heritage to various audiences effectively.
