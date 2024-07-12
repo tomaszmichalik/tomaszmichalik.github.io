@@ -47,7 +47,7 @@ interests:
   - Reception of Cultural Heritage
   - Cross-Cultural Studies
   - Psychology of Archaeologial Discoveries
-  - Development of New Research and Teaching Technigues 
+  - Development of New Research and Teaching Technigues in Archaeology
 
 education:
   - area: PhD in Archaeology
