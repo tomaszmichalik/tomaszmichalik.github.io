@@ -9,10 +9,6 @@ name_pronunciation:
 first_name: Tomasz
 last_name: Michalik
 
-# Status emoji
-status:
-  icon: 👁
-
 # Is this the primary user of the site?
 superuser: true
 
@@ -186,4 +182,5 @@ awards:
 ## About Me
 
 Every year archaeologists in different parts of the world make new archaeological discoveries, which are later presented to the general public. But do they archaeological discoveries occur? And, how does the socially and culturally diverse audience perceive archaeological remains and read messages from the past?
+
 In my study, I aim to answer these questions using eye-tracking and other methods from cognitive science. I am particularly interested in cultural variations in the perception of heritage, as well as the psychological aspects of making archaeological discoveries. Through my research, I strive to develop tools and methods that will help archaeologists better analyze archaeological data and present heritage to various audiences effectively.
