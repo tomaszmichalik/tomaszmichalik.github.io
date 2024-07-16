@@ -49,10 +49,11 @@ education:
   - area: MA in Cognitive Sience, 2014 
     institution: Adam Mickiewicz University, Poznan
   - area: MA in Archaeology, 2011
+    institution: Adam Mickiewicz University, Poznan
 ---
 
 ## About Me
 
-Every year archaeologists in different parts of the world make new archaeological discoveries, which are later presented to the general public. But how do construction of our mind infleucence what we discover? And, how does the socially and culturally diverse audience perceive archaeological discoveries?
+Every year archaeologists in different parts of the world make new archaeological discoveries, which are later presented to the general public. But how our psychology influences process of discovering? And, how does the socially and culturally diverse audience perceive archaeological discoveries?
 
 I aim to answer these questions using eye-tracking and other methods from cognitive science. I am particularly interested in cultural variations in the perception of heritage, as well as the psychological aspects of making archaeological discoveries. Through my research, I strive to develop tools and methods that will help archaeologists better analyze archaeological data and present heritage to various audiences effectively.
