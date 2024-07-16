@@ -1,13 +1,12 @@
 ---
-title: Pandas
+title: Cross-Cultural Differences in Reception of Medieval Nubian Art
 date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Sudan
+  - Nubian Art
+  - Eye-Tracking
 ---
 
-(Lorem ipsum) Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+The role of archaeologists is not only uncover remains of the past but also present them to a broad audience. However, this can pose challenges, especially when researchers come from a different culture than the local inhabitants. To foster dialogue between archaeologists and the local community, we invited Sudanese and Western visitors to view medieval Nubian paintings, discovered at the Old Dongola Archaeological Site in Sudan, using a mobile eye-tracker. Recognizing similarities and differences in how these paintings are visually processed was our starting point for developing educational programs about paintings tailored to cultural perceptions.
 
 <!--more-->
