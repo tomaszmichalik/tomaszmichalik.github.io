@@ -29,15 +29,9 @@ profiles:
   - icon: at-symbol
     url: 'mailto:t.michalik@uw.edu.pl'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/tomasz-michalik-9a50ba66/
-  - icon: academicons/google-scholar
+  - icon: academicons/academiaedu
     url: https://uw.academia.edu/TomaszMichalik
   - icon: academicons/orcid
     url: https://orcid.org/0000-0003-1369-5887 
