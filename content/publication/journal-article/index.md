@@ -7,7 +7,7 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 date: "2024-01-01T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.37718/CSA.2015.10"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-01-01T00:00:00Z"
