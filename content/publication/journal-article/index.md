@@ -1,12 +1,11 @@
 ---
 title: "Enhancing Archaeological Teaching Through Eye-Tracking: A Pilot Study on Eye Movement Modelling Examples and Teaching Artefact Analysis"
 authors:
-- admin
-- Tomasz Michalik
+- Kornelia Kajda, Tomasz Michalik, Dawid Kobiałka
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2024-01-01T00:00:00Z"
+date: "2015-01-01T00:00:00Z"
 doi: "https://doi.org/10.37718/CSA.2015.10"
 
 # Schedule page publish date (NOT publication's date).
@@ -21,7 +20,7 @@ publication_types: ["article-journal"]
 publication: "*Archeologies. Journal of World Archaeological Congress, 1*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: This paper discusses the results of project entitled 'Heritage for all Perception of the past and archaeo- logical heritage by people with intellectual disabili- ties', which the authors carried out on a group of 14 young individuals who were diagnosed with intel- lectual disabilities. The project aimed to detect how the past is perceived and conceptualized by students with learning and cognitive problems and how we, archaeologists and museum workers, can transfer knowledge about the past to them in a more ap- propriate way. This paper also provides a context for a need for inclusive archaeology as a way of practising archaeology as a discipline of social and cultural value for present-day people. Despite the limited number of people approached during the research and the specific character of education for people with intellectual disabilities in Poland, some conclusions can be drawn. First of all, participants in the project understood the past not as abstract, historical events, but rather as actions related to their personal experiences. Secondly, they remem- bered more about the past when it was shown and explained to them in an active, participatory way.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
