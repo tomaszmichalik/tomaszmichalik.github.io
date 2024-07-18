@@ -1,12 +1,12 @@
 ---
-title: "Between eye and the mind. Technology, cognition and knowledge development –  eye-tracking study report"
+title: "Between eye and the mind. Technology, cognition and knowledge development – eye-tracking study report"
 authors:
 - Tomasz Michalik
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-01-01T00:00:00Z"
-doi: "https://doi.org/10.37718/CSA.2015.10"
+date: "2014-01-01T00:00:00Z"
+doi: "https://aargonline.com/wp/wp-content/uploads/2022/10/AARGnews48.pdf"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-01-01T00:00:00Z"
@@ -17,7 +17,7 @@ publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Current Swedish Archaeology, 23*(1)"
+publication: "*AARG News, 48*"
 publication_short: ""
 
 abstract: 
@@ -46,7 +46,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: Edyta Sawicka [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: AARG News [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: false
 
