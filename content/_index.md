@@ -36,7 +36,7 @@ sections:
       title: Featured Publications
       filters:
         folders:
-          - publication
+          - post
         featured_only: true
     design:
       view: article-grid
