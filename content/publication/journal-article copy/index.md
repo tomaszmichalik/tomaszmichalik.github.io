@@ -28,7 +28,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 tags:
 - Artefact Analysis
 - Eye Movements Modelling Examples
-- Archaelogical Education
+- Archaeological Education
 featured: false
 
 # links:
