@@ -6,7 +6,7 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 date: "2014-01-01T00:00:00Z"
-doi: "https://aargonline.com/wp/wp-content/uploads/2022/10/AARGnews48.pdf"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-01-01T00:00:00Z"
@@ -35,7 +35,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "https://aargonline.com/wp/wp-content/uploads/2022/10/AARGnews48.pdf"
+url_pdf: 
 url_code: 
 url_dataset: ''
 url_poster: ''
