@@ -6,7 +6,7 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 date: "2014-01-01T00:00:00Z"
-doi: "https://aargonline.com/wp/wp-content/uploads/2022/10/AARGnews48.pdf"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-01-01T00:00:00Z"
