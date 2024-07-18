@@ -44,11 +44,11 @@ interests:
   - Development of New Research and Teaching Technigues in Archaeology
 
 education:
-  - area: PhD in Archaeology, 2016
+  - area: PhD in Archaeology
     institution: Adam Mickiewicz University, Poznan
-  - area: MA in Cognitive Sience, 2014 
+  - area: MA in Cognitive Sience 
     institution: Adam Mickiewicz University, Poznan
-  - area: MA in Archaeology, 2011
+  - area: MA in Archaeology
     institution: Adam Mickiewicz University, Poznan
 ---
 
