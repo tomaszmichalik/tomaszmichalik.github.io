@@ -30,14 +30,16 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: collection
-    id: papers
+    - block: collection
     content:
-      title: Featured Publications
+      title: Current Projects
       filters:
         folders:
-          - post
-        featured_only: true
+          - project
+    design:
+      view: article-grid
+      fill_image: false
+      columns: 3
     design:
       view: article-grid
       columns: 2
