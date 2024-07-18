@@ -17,7 +17,7 @@ publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*AARG News 03/2014, 48"
+publication: "*AARG News 03/2014, 48*"
 publication_short: ""
 
 abstract: The development of knowledge relies not only on technological advances, but also on the understanding of the process of knowledge creation. Although there is no doubt that the non-invasive archeology has significantly developed in technical aspects over the last few decades, it seems that there is still too little attention paid to the understanding of the cognitive processes
