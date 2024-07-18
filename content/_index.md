@@ -30,7 +30,7 @@ sections:
           size: cover
           position: center
           parallax: false
-    - block: collection
+  - block: collection
     content:
       title: Current Projects
       filters:
