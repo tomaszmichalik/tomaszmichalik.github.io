@@ -20,8 +20,7 @@ publication_types: ["article-journal"]
 publication: "*Current Swedish Archaeology, 23*(1)"
 publication_short: ""
 
-abstract: The development of knowledge relies not only on technological advances, but also on the understanding of the process of knowledge creation. Although there is no doubt that the non-invasive archeology has significantly developed in technical aspects over the last few decades, it seems that there is still too little attention paid to the understanding of the cognitive processes
-involved in remote sensing data perception and analysis. To fill this gap, this paper contains the results of the eye-tracking study of the processing of aerial photographs by two groups – archaeology students (“experts”), who completed the “aerial photography” course, and cognitive science students (“non-experts”). The main research question concerns the problem of the impact of knowledge on the perceptionvisal processing of the photographs and the recognition of archaeological features. The results show that knowledge influences both high and low levels of processing of aerial photographs and that there is a cognitive gap between visual and language representations of the archaeological concepts, which may cause misinterpretation.
+abstract: 
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
