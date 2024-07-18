@@ -34,7 +34,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "https://publicera.kb.se/csa/article/view/364" 
+url_pdf: "https://aargonline.com/wp/wp-content/uploads/2022/10/AARGnews48.pdf" 
 url_code: 
 url_dataset: ''
 url_poster: ''
