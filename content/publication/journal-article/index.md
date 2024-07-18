@@ -17,7 +17,7 @@ publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Archeologies. Journal of World Archaeological Congress, 1*(1)"
+publication: "*Current Swedish Archaeology, 23*(1)"
 publication_short: ""
 
 abstract: This paper discusses the results of project entitled 'Heritage for all Perception of the past and archaeological heritage by people with intellectual disabili- ties', which the authors carried out on a group of 14 young individuals who were diagnosed with intellectual disabilities. The project aimed to detect how the past is perceived and conceptualized by students with learning and cognitive problems and how we, archaeologists and museum workers, can transfer knowledge about the past to them in a more ap- propriate way. This paper also provides a context for a need for inclusive archaeology as a way of practising archaeology as a discipline of social and cultural value for present-day people. Despite the limited number of people approached during the research and the specific character of education for people with intellectual disabilities in Poland, some conclusions can be drawn. First of all, participants in the project understood the past not as abstract, historical events, but rather as actions related to their personal experiences. Secondly, they remembered more about the past when it was shown and explained to them in an active, participatory way.
@@ -33,7 +33,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 
+url_pdf: "https://publicera.kb.se/csa/article/view/364" 
 url_code: 
 url_dataset: ''
 url_poster: ''
