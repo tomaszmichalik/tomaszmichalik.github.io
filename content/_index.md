@@ -58,6 +58,14 @@ sections:
         exclude_featured: false
     design:
       view: citation
+   - block: collection
+    content:
+      title: Contact
+      filters:
+        folders:
+          - contact
+    design:
+      view: article-grid   
   - block: collection
     id: talks
     content:
