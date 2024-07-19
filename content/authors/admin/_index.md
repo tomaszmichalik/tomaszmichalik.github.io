@@ -31,7 +31,7 @@ profiles:
     label: E-mail Me
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/tomasz-michalik-9a50ba66/
-  - icon: academicons/academiaedu
+  - icon: academicons/academiaedu.svg
     url: https://uw.academia.edu/TomaszMichalik
   - icon: academicons/orcid
     url: https://orcid.org/0000-0003-1369-5887 
