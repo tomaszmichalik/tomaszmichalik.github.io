@@ -31,7 +31,7 @@ profiles:
     label: E-mail Me
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/tomasz-michalik-9a50ba66/
-  - icon: academicons/google-sholar
+  - icon: /academiaedu
     url: https://uw.academia.edu/TomaszMichalik
   - icon: academicons/orcid
     url: https://orcid.org/0000-0003-1369-5887 
@@ -40,8 +40,8 @@ interests:
   - Eye-Tracking
   - Reception of Cultural Heritage
   - Cross-Cultural Studies
-  - Psychology of Archaeologial Discoveries
-  - Development of New Research and Teaching Technigues in Archaeology
+  - Psychology of Archaeological Discoveries
+  - Development of New Research and Teaching Techniques in Archaeology
 
 education:
   - area: PhD in Archaeology
