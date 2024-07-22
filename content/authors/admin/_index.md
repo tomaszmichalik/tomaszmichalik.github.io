@@ -31,7 +31,7 @@ profiles:
     label: E-mail Me
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/tomasz-michalik-9a50ba66/
-  - icon: /academiaedu.svg
+  - icon: /academiaedu/
     url: https://uw.academia.edu/TomaszMichalik
   - icon: academicons/orcid
     url: https://orcid.org/0000-0003-1369-5887 
@@ -54,6 +54,6 @@ education:
 
 ## About Me
 
-Every year archaeologists in different parts of the world make new archaeological discoveries, which are later presented to the general public. But how our psychology influences process of discovering? And, how does the socially and culturally diverse audience perceive archaeological discoveries?
+Every year, archaeologists in different parts of the world make new discoveries, which are later presented to the general public. But why are some archaeological objects easy to notice, while others take longer to discover, and some escape our attention for a long time? And how do socially and culturally diverse audiences perceive archaeological discoveries?
 
-I aim to answer these questions using eye-tracking and other methods from cognitive science. I am particularly interested in cultural variations in the perception of heritage, as well as the psychological aspects of making archaeological discoveries. Through my research, I strive to develop tools and methods that will help archaeologists better analyze archaeological data and present heritage to various audiences effectively.
+I aim to answer these questions using eye-tracking and other methods from cognitive science. My focus is on cultural variations in the perception of heritage, as well as the psychological aspects of making archaeological discoveries. I strive to develop tools and methods that will help archaeologists better analyze archaeological data and present heritage effectively to diverse audiences.
