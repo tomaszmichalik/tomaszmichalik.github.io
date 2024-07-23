@@ -56,4 +56,4 @@ education:
 
 Every year, archaeologists in different parts of the world make new discoveries, which are later presented to the general public. But why are some archaeological objects easy to notice, while others take longer to discover, and some escape our attention for a long time? And how do socially and culturally diverse audiences perceive archaeological discoveries?
 
-I aim to answer these questions using eye-tracking and other methods from cognitive science. My focus is on cultural variations in the perception of heritage, as well as the psychological aspects of making archaeological discoveries. I strive to develop tools and methods that will help archaeologists better analyze archaeological data and present heritage effectively to diverse audiences.
+I aim to answer these questions using eye-tracking and other methods from cognitive science. My focus is on cultural variations in the perception of heritage, as well as the psychological aspects of making archaeological discoveries. I strive to develop tools and methods that will help archaeologists better analyse archaeological data and present heritage effectively to diverse audiences.
