@@ -1,6 +1,6 @@
 ---
-title: Teaching Artifact Analysis Using Eye Movement Modelling Examples
-date: 2024-02-26
+title: Teaching Artefact Analysis Using Eye Movement Modelling Examples
+date: 2024-05-15
 tags:
   - Experts
   - Eye Movements

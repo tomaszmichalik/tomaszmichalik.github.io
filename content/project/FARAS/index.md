@@ -1,6 +1,6 @@
 ---
 title: The Role of Cultural Bias and Knowledge in the Analysis of Medieval Paintings
-date: 2023-10-26
+date: 2024-02-14
 tags:
   - Faras Galley
   - Iconographical Analysis
