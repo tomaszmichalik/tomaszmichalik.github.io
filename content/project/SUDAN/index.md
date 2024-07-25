@@ -2,7 +2,7 @@
 title: Cross-Cultural Differences in Reception of Medieval Nubian Art
 date: 2024-07-20
 tags:
-  - Sudan
+  - Sudan, Old Dongola
   - Nubian Art
   - Eye-Tracking
 ---

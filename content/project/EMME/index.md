@@ -2,7 +2,7 @@
 title: Teaching Artefact Analysis Using Eye Movement Modelling Examples
 date: 2024-05-15
 tags:
-  - Experts
+  - Archaeologicla Experts
   - Eye Movements
   - Teaching 
 ---

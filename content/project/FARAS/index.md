@@ -2,9 +2,9 @@
 title: The Role of Cultural Bias and Knowledge in the Analysis of Medieval Paintings
 date: 2024-02-14
 tags:
-  - Faras Galley
+  - Faras Gallery, Warsaw
   - Iconographical Analysis
-  - Archeological Education
+  - Archaeological Education
   - Eye-Tracking 
 ---
 
