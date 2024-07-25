@@ -27,8 +27,9 @@ summary:
 
 tags:
 - Artefact Analysis
+- Experts
+- Teaching
 - Eye Movements Modelling Examples
-- Archaeological Education
 featured: false
 
 # links:
