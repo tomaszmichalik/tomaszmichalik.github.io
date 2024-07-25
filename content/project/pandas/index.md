@@ -1,6 +1,6 @@
 ---
 title: Cross-Cultural Differences in Reception of Medieval Nubian Art
-date: 2023-10-26
+date: 2024-07-20
 tags:
   - Sudan
   - Nubian Art
