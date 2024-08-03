@@ -7,6 +7,6 @@ authors:
 tags:
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: 'Image credit: AI [**Unsplash**](https://unsplash.com)'
 ---
 
