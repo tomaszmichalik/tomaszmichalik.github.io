@@ -26,9 +26,6 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:t.michalik@uw.edu.pl'
-    label: E-mail Me
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/tomasz-michalik-9a50ba66/
   - icon: /academiaedu/
