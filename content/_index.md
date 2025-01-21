@@ -39,15 +39,7 @@ sections:
     design:
       view: article-grid
       fill_image: false
-      columns: 3    
-  - block: collection
-    content:
-      title: Posts
-      filters:
-        folders:
-          - post
-    design:
-      view: article-grid    
+      columns: 3     
   - block: collection
     content:
       title: Selected Publications
