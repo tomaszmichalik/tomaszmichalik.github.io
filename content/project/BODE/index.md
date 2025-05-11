@@ -11,6 +11,6 @@ tags:
 
 Historical reconstructions are an important tool for bringing the past closer to the public. However, we still know relatively little about how they affect museum visitors.
 
-In research conducted during the exhibition Dress to Impress: Reconstructions of Medieval Robes from Nubia and a fashion show of medieval Nubian dresses held at the Bode Museum in Berlin, we asked visitors to evaluate their aesthetic experience while viewing various reconstructions of medieval Nubian clothing. By examining how visitors’ personality traits and the type of historical reconstruction influence their perception, our aim was to identify what makes such reconstructions appealing and how this correlates with visual behaviour, in order to inform the design of more engaging exhibitions in the future. fff
+In research conducted during the exhibition Dress to Impress: Reconstructions of Medieval Robes from Nubia and a fashion show of medieval Nubian dresses held at the Bode Museum in Berlin, we asked visitors to evaluate their aesthetic experience while viewing various reconstructions of medieval Nubian clothing. By examining how visitors’ personality traits and the type of historical reconstruction influence their perception, our aim was to identify what makes such reconstructions appealing and how this correlates with visual behaviour, in order to inform the design of more engaging exhibitions in the future. d
 
 <!--more-->
