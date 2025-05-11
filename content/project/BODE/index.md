@@ -3,9 +3,9 @@ title: Historical receonstructions, aesthetic experience and personal traits
 date: 2025-05-02
 tags:
   - Bode Museum, Berlin
-  - Historical reconstructions
+  - Historical Reconstructions
   - Medieval Nubian Dresses
-  - Fashion show
+  - Fashion Show
   - Eye-Tracking
 ---
 
