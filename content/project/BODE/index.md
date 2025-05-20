@@ -1,5 +1,5 @@
 ---
-title: Historical receonstructions, aesthetic experience and personal traits
+title: Historical reconstructions, aesthetic experience and personal traits
 date: 2025-05-02
 tags:
   - Bode Museum, Berlin
