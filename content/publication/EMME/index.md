@@ -17,7 +17,7 @@ publishDate: "2024-07-25T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Archaeologies: Journal of the World Archaeological Congress*"
+publication: "*Archaeologies: Journal of the World Archaeological Congress*, 21, 17-38"
 publication_short: ""
 
 abstract: Visual analysis of artefacts is fundamental to archaeological research. However, learning and teaching the methods of artefact analysis can be challenging, since it is cognitively demanding to observe and explain how visual processing works. This paper addresses this challenge and evaluates eye movement modelling examples, a newly adopted method for teaching visual analysis of artefacts. Educational materials containing recordings of eye movements of experts analysing artefacts have been shown to be beneficial to students. As a consequence, they may boost the accessibility of archaeological knowledge, both for in-class and remote education.
