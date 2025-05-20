@@ -17,7 +17,7 @@ publishDate: "2024-11-25T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Polish Archaeology in the Mediterranean, 33*"
+publication: "*Polish Archaeology in the Mediterranean*,33, 433-458"
 publication_short: ""
 
 abstract: Eye-tracking is a powerful tool that enables the understanding of visual attention through analysis of gaze patterns. Although sight is one of the senses crucial for learning about the past, the eye-tracking technology is still rarely used in archaeology. This paper discusses current applications, potential, and challenges of eye-tracking in archaeological practice in order to foster a broader use of this method. In particular, the article investigates the influence of subjective, technical, and methodological factors on the feasibility of eye-tracking research in archaeology based on experience gained during the project “Psychological Aspects of Creating and Acquiring Knowledge about the Past”. Observations and analyses conducted as part of this project have shown that while technical limitations pose minimal obstacles to research, methodological issues may present a more significant challenge. The discussion of various aspects of eye-tracking in archaeology is intended to aid archaeologists considering the integration of this technology into their research.
