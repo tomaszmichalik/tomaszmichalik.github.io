@@ -27,11 +27,11 @@ abstract: Aesthetic experience may foster positive connections between visitors 
 summary:
 
 tags:
+- Nubian Medieval Paintings
+- Aesthetic Experience
 - Eye-Tracking
-- Archaeology
-- Applications
-- Expertise
 - Cross-Cultural Studies
+- Sudanese and Western Viewers
 featured: false
 
 # links:
