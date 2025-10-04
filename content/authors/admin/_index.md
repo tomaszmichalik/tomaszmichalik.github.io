@@ -20,7 +20,7 @@ role: Assistant Professor, Eye-Tracking and Archaeology
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: University of Warsaw
+  - name: University of Szczecin
     url: https://pcma.uw.edu.pl/o-nas/pracownicy/tomasz-michalik/
 
 # Social network links
