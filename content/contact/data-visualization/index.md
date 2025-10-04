@@ -1,7 +1,7 @@
 ---
 title: 📧 tomasz.michalik@usz.edu.pl
-summary: ndtitute of History, Krakowska 71-79 st, 71-017 Szczecin, Poland
-date: 2023-10-10
+summary: Institute of History, Krakowska 71-79 st, 71-017 Szczecin, Poland
+date: 2025-10-02
 authors:
   - admin
 tags:
