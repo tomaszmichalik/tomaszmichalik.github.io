@@ -20,7 +20,7 @@ publishDate: "2025-11-14T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of African Archaeology*", 23-2. 145-158.
+publication:  "“*Journal of African Archaeology*”, 23-2. 145-158."
 publication_short: ""
 
 abstract: Our understanding of how visitors’ cultural backgrounds shape their visual engagement with archaeological heritage remains relatively limited. The present study explores the effect of visitors’ cultural backgrounds on visual inspection. Forty-eight Sudanese and 19 Western visitors of the Monastery on Kom H at the Old Dongola archaeological site (Sudan) were asked to view 17 medieval Nubian wall paintings while their eye movements were being recorded. Sudanese participants maintained a broader focus of attention than Western participants when viewing paintings, which marked a greater likelihood of looking at the painting context. In contrast, Western participants focused more on the human figures and their attributes. Taken together, these findings support the hypothesis that cultural background shapes viewing. The results are discussed in terms of development of inclusive strategies that facilitate visitors’ engagement with artefacts present at archaeological sites.
