@@ -50,6 +50,16 @@ sections:
         exclude_featured: false
     design:
       view: citation
+   - block: collection
+    content:
+      title: Media
+      filters:
+        folders:
+          - project
+    design:
+      view: article-grid
+      fill_image: false
+      columns: 3         
   - block: collection
     content:
       title: Contact
