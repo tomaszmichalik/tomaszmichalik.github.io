@@ -1,5 +1,5 @@
 ---
-title: Rzeczpospolita - How Can We See the Past Differently? Eye-Tracking in Archaeology
+title: Rzeczpospolita - How Can We See the Past Differently? Eye-Tracking in Archaeology [PL]
 date: 2025-09-17
 tags:
   - Newspaper Article
