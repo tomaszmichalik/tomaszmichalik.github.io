@@ -15,7 +15,7 @@ main:
     weight: 13
   - name: Media
     url: /media/
-    weight: 15  
+    weight: 13  
   - name: Contact
     url: /contact/
     weight: 20
