@@ -1,4 +1,4 @@
----;
+---
 title: Polish Radio - Eye-tracking technology for studying how people look at archaeological artefacts in museums [PL]
 date: 2025-09-01
 tags:
