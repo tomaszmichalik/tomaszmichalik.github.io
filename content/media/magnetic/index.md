@@ -1,11 +1,8 @@
----
-title: Enhancing Non-Invasive Research with Eye-Tracking 
-date: 2023-11-18
+---;
+title: Polish Radio - Eye-tracking technology for studying how people look at archaeological artefacts in museums [PL]
+date: 2025-09-01
 tags:
-  - Magnetic Images
-  - Eye Movements
-  - Teaching 
+  - Radio Interview
 ---
-The imperative to preserve archaeological heritage for future generations has spurred the intensive development of non-invasive research within archaeology. However, new technologies present both opportunities and challenges for researchers who must learn to analyze various types of data. To better understand the knowledge creation process based on non-excavation data, this project aims to investigate the psychological aspects of searching for archaeological objects using magnetic imaging. By analyzing the gaze behavior of both experts and non-experts, we aim to explore which elements of the images attract visual attention, the difficulties encountered by analysts, and whether certain anomalies are detected more easily even without expert knowledge.
-
+Link: https://www.polskieradio.pl/trojka/audycje/piknik-naukowy,11009/odcinek/technologia-eye-tracking-czyli-sledzenia-ruchow-oczu-podczas-ogladania-zabytkow-w-muzeum,250ccc17-e106-4c6f-8b78-434878ed6ad1 
 <!--more-->
