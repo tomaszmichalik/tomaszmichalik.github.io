@@ -1,12 +1,9 @@
 ---
-title: Teaching Artefact Analysis Using Eye Movement Modelling Examples
-date: 2024-05-15
+title: NiUS Radio - Do we really see the same thing? [PL]
+date: 2026-08-26
 tags:
-  - Archaeologicla Experts
-  - Eye Tracking
-  - Teaching 
-  - EMME
+  - Radio Interview
 ---
-Visual analysis of artefacts is a basic procedure in archaeological research. However, teaching the visual analysis of artefacts can be a challenge, mostly because seeing is not an entirely conscious process. To aid archaeological instructors and students in learning and teaching artefact analysis, we developed eye-tracking recordings that depict the gaze behavior of archaeological experts during artefact analysis (a method known as Eye Movement Modelling Examples - EMME). Subsequently, we presented these recordings to students during archaeological courses. The results showed that students gained various educational benefits from EMME.
+Link: https://niusradio.usz.edu.pl/podcast/rozmowa-dnia-czy-naprawde-widzimy-to-samo/
 
 <!--more-->
