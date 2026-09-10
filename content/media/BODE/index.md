@@ -1,8 +1,8 @@
 ---
-title: Historical Reconstructions, Aesthetic Experience and Personal Traits
-date: 2025-05-02
+title: Seeing the past in a new light: Eye-tracking in archaeology
+date: 2026-06-16
 tags:
-  - Bode Museum, Berlin
+  - Serwis Naukowy 
   - Historical Reconstructions
   - Medieval Nubian Dresses
   - Fashion Show
