@@ -1,8 +1,7 @@
 ---
-title: Seeing the past in a new light. Eye-tracking in archaeology [EN]
+title: Science Portal - Seeing the past in a new light. Eye-tracking in archaeology [EN]
 date: 2026-06-16
 tags:
-  - Serwis Naukowy
   - Newspaper Article
 ---
 

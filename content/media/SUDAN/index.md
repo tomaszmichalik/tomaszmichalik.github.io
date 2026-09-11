@@ -1,12 +1,9 @@
 ---
-title: Cross-Cultural Differences in Reception of Medieval Nubian Art
-date: 2024-07-20
+title: National Geographic - Eye-tracking Research on Medieval Paintings in Sudan: A Unique Study by a Polish Archaeologist
+date: 2024-04-12
 tags:
-  - Sudan, Old Dongola
-  - Nubian Art
-  - Eye-Tracking
+  - Newspaper Article
 ---
-
-The role of archaeologists is not only uncover remains of the past but also present them to a broad audience. However, this can pose challenges, especially when researchers come from a different culture than the local inhabitants. To foster dialogue between archaeologists and the local community, we invited Sudanese and Western visitors to view medieval Nubian paintings, discovered at the Old Dongola Archaeological Site in Sudan, using a mobile eye-tracker. Recognizing similarities and differences in how these paintings are visually processed was our starting point for developing educational programs about paintings tailored to cultural perceptions.
+Link: https://www.national-geographic.pl/historia/eye-tracking-w-badaniach-sredniowiecznych-malowidel-w-sudanie-unikatowe-badania-polskiego-archeologa-240410110815/
 
 <!--more-->
