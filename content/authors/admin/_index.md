@@ -21,13 +21,13 @@ role: Assistant Professor, Eye-Tracking and Archaeology
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: University of Szczecin
-    url: https://pcma.uw.edu.pl/o-nas/pracownicy/tomasz-michalik/
+    url: https://archeologia.usz.edu.pl/dr-tomasz-michalik/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/tomasz-michalik-9a50ba66/
+    url: https://www.linkedin.com/in/tomasz-michalik-phd-9a50ba66/?locale=pl
   - icon: /academiaedu/
     url: https://uw.academia.edu/TomaszMichalik
   - icon: academicons/orcid
