@@ -1,5 +1,5 @@
 ---
-title: National Geographic - Eye-tracking Research on Medieval Paintings in Sudan: A Unique Study by a Polish Archaeologist
+title: "National Geographic - Eye-tracking Research on Medieval Paintings in Sudan: A Unique Study by a Polish Archaeologist"
 date: 2024-04-12
 tags:
   - Newspaper Article
