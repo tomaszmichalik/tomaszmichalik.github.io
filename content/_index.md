@@ -55,7 +55,7 @@ sections:
       title: Media
       filters:
         folders:
-          - project
+          - media
     design:
       view: article-grid
       fill_image: false
